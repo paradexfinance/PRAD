@@ -1,4 +1,4 @@
-Introducing ParaDex is a layer 2 DeFi Lending and Yield Farming protocol for digital assets, powered by the PRAD token.
+Introducing ParaDex - The DeFi Automated Market Maker and Yield Farming protocol for digital assets, powered by the PRAD token.
 ParaDex is a new DeFi platform that facilitates the on-chain trading of digital assets that represent the real economy. 
 ParaDex Protocol seeks to provide exposure to real-world assets risk/return profiles via smart contracts on the blockchain. 
 ParaDex Protocol will leverage the time-tested derivative liquidity protocol and bring interoperability, 
